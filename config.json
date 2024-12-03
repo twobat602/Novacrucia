@@ -1,8 +1,9 @@
 {
   "PAGE_ACCESS_TOKEN": "",
+  "pageID": "",
   "VERIFY_TOKEN": "YOURKEY",
   "ADMINS": [
-    "24882697434652821"
+    ""
   ],
   "BOTNAME": "BOTNAME",
   "PREFIX": "/",
