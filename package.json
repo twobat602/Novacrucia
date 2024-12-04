@@ -1,6 +1,6 @@
 {
   "name": "novacrucia",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "command_version": "1.0.0",
   "description": "A Novacrucia Facebook Page Bot Dedicated to api.kenliejugarap.com",
   "main": "index.js",
