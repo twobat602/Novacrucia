@@ -1,15 +1,15 @@
 {
-  "PAGE_ACCESS_TOKEN": "",
-  "pageID": "",
+  "PAGE_ACCESS_TOKEN": "EAAMmZAkFERKwBOywUZAwlBZBZCbZCX29JZCVtu1azZBVAaTQby9nm2TU6AgEVn875EORC4P8oEwAZCyz12vmUKY8ysKQpbPnWJwHbeOYr8JoKBnxDt4nQlV8AycbYyYUlYNVfW5mPS1Lqr6yO3hkF1nof1nsC3Vk2BfNbIML9U9YRAf7FXUIhwFBVZAQGbDQq4WFE5wZDZD",
+  "pageID": "524637017392631",
   "VERIFY_TOKEN": "YOURKEY",
   "ADMINS": [
     ""
   ],
-  "BOTNAME": "BOTNAME",
-  "PREFIX": "/",
+  "BOTNAME": "Shina May",
+  "PREFIX": ".",
   "THEME_SETUP": {
     "THEME": "Fiery",
-    "ADMIN": "Your Name",
+    "ADMIN": "Char",
     "TITLE": "NOVACRUCIA"
   },
   "AUTO_UPDATE_CMD": true,
